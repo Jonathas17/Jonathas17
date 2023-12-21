@@ -2,9 +2,9 @@
 
 - 🚨 Hoje estou procurando trabalho em back-end
 - 🚧 Estou estudando python 'Iniciante'
-- 🚀 Procuro estagio para me desenvolver
+- 🚀 Procuro estágio para me desenvolver
 - ✨ Contato: jonathasmarinho17@hotmail.com
-- ⚽ Iniciando carreira Dev
+- ⚽ Iniciando carreira Back-End
 
 <div align="center">
   <a href="https://github.com/Jonathas17">
