@@ -1,7 +1,7 @@
 ## Olá, me chamo Jonathas ##
 
 - 🚨 Hoje estou procurando trabalho em back-end
-- 🚧 Estou estudando python 'Iniciante'
+- 🚧 Estou estudando python
 - ✨ Contato: jonathasmarinho17@hotmail.com
 - ⚽ Iniciando carreira Back-End
 
