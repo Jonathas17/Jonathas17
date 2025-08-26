@@ -2,7 +2,7 @@
 
 - 🚨 Hoje estou procurando trabalho em back-end
 - 🚧 Estou estudando python
-- ✨ Contato: jonathasmarinho17@hotmail.com
+- ✨ Contato: jonathasdev@hotmail.com
 - ⚽ Iniciando carreira Back-End
 
 <div align="center">
