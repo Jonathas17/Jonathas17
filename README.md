@@ -1,9 +1,9 @@
 ## Olá, me chamo Jonathas ##
 
-- 🚨 Hoje estou procurando trabalho em back-end
-- 🚧 Estou estudando python
+- 🚨 Hoje estou procurando trabalho em Fulls-Stack
+- 🚧 Estou estudando python, Javascript, HTML & CSS
 - ✨ Contato: jonathasdev@hotmail.com
-- ⚽ Iniciando carreira Back-End
+- ⚽ Iniciando carreira Full-Stack
 
 <div align="center">
   <a href="https://github.com/Jonathas17">
