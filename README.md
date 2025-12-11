@@ -1,21 +1,66 @@
-## Olá, me chamo Jonathas ##
+# 🌟 Olá! Eu sou o Jonathas Marinho  
+### 👨‍💻 Desenvolvedor Full Stack | 🎨 Front-end | 🛠️ Back-end | 📊 Dashboards & Automação
 
-- 🚨 Hoje estou procurando trabalho em Fulls-Stack
-- 🚧 Estou estudando python, Javascript, HTML & CSS
-- ✨ Contato: jonathasdev@hotmail.com
-- ⚽ Iniciando carreira Full-Stack
+Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e soluções que desenvolvo utilizando tecnologias modernas — sempre com foco em desempenho, organização e boas práticas.
 
-<div align="center">
-  <a href="https://github.com/Jonathas17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathas17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas17&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/jonathas-marinho-a312a31a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+---
+
+## 🚀 Tecnologias que utilizo
+
+### **Front-end**
+- HTML5 • CSS3 • JavaScript  
+- UI Responsiva • Animações CSS • Tailwind
+
+### **Back-end**
+- Python • Django • Flask  
+- Node.js • Express  
+- API REST • Automação e Scripts
+
+### **Banco de Dados**
+- MySQL • PostgreSQL • SQLite
+
+### **Ferramentas & DevOps**
+- Git • GitHub  
+- Docker  
+- Figma  
+- Linux / Windows
+
+---
+
+## 📌 Principais Projetos
+
+### 🔹 Sistema para Salão de Beleza (Django)
+Aplicação completa com agendamento, portfólio, painel administrativo e galeria dinâmica.
+
+### 🔹 Dashboards Interativos
+Dashboards criados com Python/Flask para visualização de dados em tempo real.
+
+### 🔹 Templates Profissionais
+Criação de sites e interfaces modernas com HTML, CSS e JavaScript puro.
+
+---
+
+## 🎯 O que estou fazendo atualmente
+- Aprimorando minhas habilidades em **Django e APIs**  
+- Desenvolvendo **projetos práticos para portfólio**  
+- Criando soluções para automação e dashboards  
+- Aprofundando conhecimento em **Node.js + MySQL**
+
+---
+
+## 📫 Como me encontrar
+📧 E-mail: **jonathasdev@outlook.com**  
+💼 LinkedIn: *https://www.linkedin.com/in/jonathasmarinho/*  
+
+---
+
+## ⚡ Curiosidades sobre mim
+- Apaixonado por tecnologia, design e música  
+- Sempre buscando aprender algo novo  
+- Gosto de transformar ideias em projetos reais
+
+---
+
+## 💬 Quer trocar uma ideia?
+Fique à vontade para abrir uma *issue*, enviar mensagem ou colaborar com algum repositório.  
+Estou sempre aberto a contribuições e networking!
