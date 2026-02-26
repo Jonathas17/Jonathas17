@@ -9,12 +9,13 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e soluções
 
 ### **Front-end**
 - HTML5 • CSS3 • JavaScript  
-- UI Responsiva • Animações CSS • Tailwind
+- UI Responsiva • Animações CSS • 
 
 ### **Back-end**
 - Python • Django • Flask  
 - Node.js • Express  
 - API REST • Automação e Scripts
+- C#
 
 ### **Banco de Dados**
 - MySQL • PostgreSQL • SQLite
