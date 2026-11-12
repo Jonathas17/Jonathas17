@@ -50,7 +50,6 @@ Desenvolvo aplicações de ponta a ponta: **APIs REST em ASP.NET Core** com Clea
 - Vendas, controle de caixa e estoque.
 
 ### 📂 Outros repositórios
-- [workshop-asp-net-core-mvc](https://github.com/Jonathas17/workshop-asp-net-core-mvc): aplicação web em ASP.NET Core MVC
 - [dashboard](https://github.com/Jonathas17/dashboard): dashboard com login e gráficos dinâmicos
 - [salao](https://github.com/Jonathas17/salao): site para salão de beleza com agendamento e portfólio
 - [esteticista](https://github.com/Jonathas17/esteticista): interface para profissionais de estética
