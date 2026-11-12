@@ -1,67 +1,72 @@
-# 🌟 Olá! Eu sou o Jonathas Marinho  
-### 👨‍💻 Desenvolvedor Full Stack | 🎨 Front-end | 🛠️ Back-end | 📊 Dashboards & Automação
+<h1 align="center">Olá, eu sou o Jonathas Marinho 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack · C# / .NET · Angular · React · Flutter</h3>
 
-Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e soluções que desenvolvo utilizando tecnologias modernas — sempre com foco em desempenho, organização e boas práticas.
+<p align="center">
+  <a href="https://jonathas17.github.io"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=ffd166" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/jonathasmarinho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jonathasdev@outlook.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
+</p>
 
----
+Desenvolvo aplicações de ponta a ponta: **APIs REST em ASP.NET Core** com Clean Architecture, CQRS e Entity Framework Core, interfaces em **Angular e React**, apps mobile em **Flutter** e bancos **PostgreSQL, MySQL e SQLite**. Graduado em Sistemas de Informação.
 
-## 🚀 Tecnologias que utilizo
-
-### **Front-end**
-- HTML5 • CSS3 • JavaScript  
-- UI Responsiva • Animações CSS • 
-
-### **Back-end**
-- Python • Django • Flask  
-- Node.js • Express  
-- API REST • Automação e Scripts
-- C#
-
-### **Banco de Dados**
-- MySQL • PostgreSQL • SQLite
-
-### **Ferramentas & DevOps**
-- Git • GitHub  
-- Docker  
-- Figma  
-- Linux / Windows
+📍 Porto Franco, MA · 💼 Disponível para vagas remotas, híbridas ou presenciais
 
 ---
 
-## 📌 Principais Projetos
+## 🛠️ Stack
 
-### 🔹 Sistema para Salão de Beleza (Django)
-Aplicação completa com agendamento, portfólio, painel administrativo e galeria dinâmica.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,flutter,dart,python,django,nodejs,postgres,mysql,sqlite,docker,aws,git,html,css&perline=10" alt="Tecnologias" />
+</p>
 
-### 🔹 Dashboards Interativos
-Dashboards criados com Python/Flask para visualização de dados em tempo real.
-
-### 🔹 Templates Profissionais
-Criação de sites e interfaces modernas com HTML, CSS e JavaScript puro.
-
----
-
-## 🎯 O que estou fazendo atualmente
-- Aprimorando minhas habilidades em **Django e APIs**  
-- Desenvolvendo **projetos práticos para portfólio**  
-- Criando soluções para automação e dashboards  
-- Aprofundando conhecimento em **Node.js + MySQL**
+| Área | Tecnologias |
+|---|---|
+| **Linguagens** | C#, TypeScript, JavaScript, Python, Dart, SQL |
+| **Back-end** | ASP.NET Core, .NET, Entity Framework Core, MediatR, Node.js, Django, APIs RESTful |
+| **Front-end** | Angular, React, HTML5, CSS3, design responsivo |
+| **Mobile e Desktop** | Flutter, PySide6 (Qt) |
+| **Arquitetura** | Clean Architecture, CQRS, monólito modular, microsserviços |
+| **Segurança** | JWT + refresh token, ASP.NET Core Identity, BCrypt |
+| **Banco de dados** | PostgreSQL, MySQL, SQLite |
+| **DevOps e Ferramentas** | Git, GitHub, Docker, Docker Compose, AWS, testes automatizados |
 
 ---
 
-## 📫 Como me encontrar
-📧 E-mail: **jonathasdev@outlook.com**  
-💼 LinkedIn: *https://www.linkedin.com/in/jonathasmarinho/*  
+## 🚀 Projetos em destaque
+
+### 🛵 Aplicativo de Delivery
+`Flutter` `Dart` `Provider` `C#` `ASP.NET Core` `EF Core` `SQLite` `JWT`
+- Três painéis no mesmo app: cliente, restaurante e entregador.
+- Fluxo completo do pedido, do carrinho à entrega com código de confirmação.
+- API REST com regras de status e preços validadas no servidor, login JWT e senhas com BCrypt.
+
+### 🛒 E-commerce
+`Angular` `TypeScript` `ASP.NET Core` `CQRS` `MediatR` `PostgreSQL`
+- Monólito modular com Clean Architecture, CQRS e MediatR.
+- Catálogo, carrinho, pedidos, estoque por variação e painel administrativo.
+
+### 🧾 Sistema PDV
+`Python` `Django` `PySide6`
+- Vendas, controle de caixa e estoque.
+
+### 📂 Outros repositórios
+- [workshop-asp-net-core-mvc](https://github.com/Jonathas17/workshop-asp-net-core-mvc): aplicação web em ASP.NET Core MVC
+- [dashboard](https://github.com/Jonathas17/dashboard): dashboard com login e gráficos dinâmicos
+- [salao](https://github.com/Jonathas17/salao): site para salão de beleza com agendamento e portfólio
+- [esteticista](https://github.com/Jonathas17/esteticista): interface para profissionais de estética
+- [Banco](https://github.com/Jonathas17/Banco): simulador de sistema bancário
 
 ---
 
-## ⚡ Curiosidades sobre mim
-- Apaixonado por tecnologia, design e música  
-- Sempre buscando aprender algo novo  
-- Gosto de transformar ideias em projetos reais
+## 🎓 Formação e certificações
+- **Sistemas de Informação**, graduação concluída em 12/2024
+- C# (2026) · JavaScript, HTML e CSS Developer (2023) · Python e Django (2023) · PostgreSQL (2023)
 
 ---
 
-## 💬 Quer trocar uma ideia?
-Fique à vontade para abrir uma *issue*, enviar mensagem ou colaborar com algum repositório.  
-Estou sempre aberto a contribuições e networking!
+## 📊 Estatísticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jonathas17&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas17&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
