@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack · C# / .NET · Angular · React · Flutter</h3>
 
 <p align="center">
-  <a href="https://jonathas17.github.io"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=ffd166" alt="Portfólio"></a>
+  <a href="https://jonathas-marinho.pages.dev/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=ffd166" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/jonathasmarinho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jonathasdev@outlook.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 </p>
